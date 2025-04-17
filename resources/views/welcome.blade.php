@@ -6,7 +6,7 @@
         <title>TUGAS PEMROGRAMAN WEBII</title>
     </head>
     <body>
-        <h2>Pemrograman WebII  TI 23 A1<h2>
-        <h3>Project Semester4 Teknik Informatika<h3>
+        <h2>Selamat datang di website amburadul kami, Selamat Menikmati halaman blank putih ini<h2>
+        <h3>404 not found<h3>
     </body>
 </html>
